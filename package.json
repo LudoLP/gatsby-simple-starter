@@ -1,0 +1,31 @@
+{
+  "name": "gatsby-simple-starter",
+  "version": "1.0.0",
+  "description": "A simple starter for Gatsby projects with only the bare minimum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucio-keywell/gatsby-simple-starter.git"
+  },
+  "author": "Lucio Keywell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucio-keywell/gatsby-simple-starter/issues"
+  },
+  "homepage": "https://github.com/lucio-keywell/gatsby-simple-starter#readme",
+  "dependencies": {
+    "gatsby": "^2.24.47",
+    "gatsby-image": "^2.4.16",
+    "gatsby-plugin-react-helmet": "^3.3.10",
+    "gatsby-plugin-sharp": "^2.6.27",
+    "gatsby-source-filesystem": "^2.3.24",
+    "gatsby-transformer-sharp": "^2.5.13",
+    "prettier": "^2.0.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0"
+  }
+}
